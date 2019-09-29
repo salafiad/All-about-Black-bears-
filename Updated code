@@ -1,0 +1,48 @@
+<body>
+  <h1>About the Toucan</h1>
+  <div id= "introduction">
+    <h2>About Toucan</h2>
+    <p>The Toucan (<em> Ramphastidae</em>) are members of the Neotropical near passerine bird family Ramphastidae. The Ramphastidae are most closely related to the American barbets. They are brightly marked and have large, often-colorful bills. The family includes five genera and over forty different species.Its conservation status is currently <strong>Least Concern</strong>.<br /><br /> There are over 20 subspecies within the Toucan species, including the toco toucan and the keel-billed toucan.</p>
+    <h3>Species</h3>
+    <ul>
+      <li>white-throated toucan </li>
+      <li>keel-billed toucan</li>
+      <li>chestnut-eared aracari</li>
+      <li>toco toucan</li>
+      <li>yellow-throated toucan</li>
+      <li>chestnut-mandibled toucan</li>
+      <li>Channel-billed toucan</li>
+      <li>Emerald Toucanet</li>
+      <li>Green-billed toucan</li>
+      <li>Collared aracari</li>
+      <li>Choco toucan</li>
+      <li>Green aracari</li>
+      <li>Fiery-billed aracari</li>
+      <li>Spot-billed toucanet</li>
+      <li>curl-crested aracari</li>
+      <li>yellow-eared toucanet</li>
+      <li>Grey-breasted mountain toucan</li>
+      <li>Plate-billed moutain toucan</li>
+      <li>Lettered aracari</li>
+      <li>Black-billed mountain toucan</li>
+      <li>And many more...</li>
+    </ul>
+  <h3>Characteristics</he>
+  <p>Toco Toucans have striking plumage with a black body, white throat and a blue or orange eye ring (<em>depends on species</em>). Their most noticable feature, however, is its huge yellow beak with  a black or blue tip, which looks heavy but is incredibly light because the inside is hollow.<p>
+  </div>
+  <div id="habitat">
+    <h2>habitat</h2>
+    <h3>Areas with large toucan population</h3>
+      <ol>
+        <li>Neotropics (<em>native</em)
+        <li>Southern Mexico</li>
+        <li>Central America</li>
+        <li>South America</li>
+        <li>Northern Argentina</li>
+        <li>lowland tropics</li>
+  </div>
+  <div id="media">
+    <h2>media<h2>
+    <img src="https://www.audubon.org/sites/default/files/a1_4622_16_toco-toucan_peter_cavanagh_kk.jpg"
+  </div>
+</body>
